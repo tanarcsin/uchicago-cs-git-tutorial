@@ -1,2 +1,2 @@
-Arkajyoti Sinha 
+Sinha Arkajyoti Sinha 
 # uchicago-cs-git-tutorial
